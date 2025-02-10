@@ -1,4 +1,3 @@
-<img src="https://wallpaperaccess.com/full/1428490.jpg" alt="Coding" style="width: 100%; height: 250px;">
 
 <h1 align="center">Hi 👋, I'm Ahmed Sanad</h1>
 <h3 align="center">Computer Engineering Student</h3>
