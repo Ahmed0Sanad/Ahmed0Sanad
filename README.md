@@ -1,3 +1,5 @@
+<img src="https://wallpaperaccess.com/full/1428490.jpg" alt="Coding" style="width: 100%; height: 250px;">
+
 <h1 align="center">Hi 👋, I'm Ahmed Sanad</h1>
 <h3 align="center">Computer Engineering Student</h3>
 <p>I’m a Computer Engineering student at Tanta University with hands-on experience in software development, particularly in back-end development with .NET Core. I recently completed a back-end internship at DEPI, where I developed and optimized back-end solutions for web applications.
