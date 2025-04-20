@@ -9,7 +9,7 @@ I’m passionate about building impactful projects, collaborating in dynamic env
 
 - 📫  You can contact me at **ahmedsanad880@gmail.com**
 
-- 📄 My CV [https://drive.google.com/drive/folders/10G6xIAdonXEaFF1FDjVtf3Y2rBZjDiIe](https://drive.google.com/drive/folders/10G6xIAdonXEaFF1FDjVtf3Y2rBZjDiIe)
+- 📄 My CV https://drive.google.com/file/d/16YNIz64rorhabtum_P6lRrV5s9sM5aCi/view?usp=sharing
 
 
 <h3 align="left">Socials</h3>
