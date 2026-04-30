@@ -58,11 +58,6 @@
 
 ---
 
-en, write the code." – John Johnson</i>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=80&section=footer"/>
 </p>
