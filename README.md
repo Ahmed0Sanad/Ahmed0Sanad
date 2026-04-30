@@ -9,10 +9,6 @@
   I enjoy solving real-world problems, designing efficient APIs, and continuously improving my engineering skills.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed0sanad&label=Profile%20Views&color=00b4d8&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -62,32 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed0sanad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed0sanad&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0sanad&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🧠 Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ahmedsanad880?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
-### ✨ Quote
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+en, write the code." – John Johnson</i>
 </p>
 
 ---
