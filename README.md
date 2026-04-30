@@ -10,7 +10,8 @@ I enjoy solving real-world problems, designing efficient APIs, and continuously 
 
 ### 🚀 About Me
 - 🎓 Computer Engineering Student at **Tanta University**
-- 💼 Backend Intern @ **DEPI**
+- Junior Full-Stack in **Devloopy**
+- 💼 Backend Intern  **DEPI**
 - 🔧 Focused on **ASP.NET Core & Web APIs**
 - 📚 Currently learning **Advanced .NET & System Design**
 - ⚡ Interested in **Scalable Systems & Clean Architecture**
